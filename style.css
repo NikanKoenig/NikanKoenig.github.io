@@ -9,6 +9,29 @@ body {
     font-weight: lighter;
 }
 
+a:link {
+    color: red;
+    text-decoration: none;
+}
+
+  /* visited link */
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+  
+  /* mouse over link */
+a:hover {
+    color: hotpink;
+    text-decoration: none;
+}
+  
+  /* selected link */
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
 header {
     width: 100%;
     height: 100vh;
